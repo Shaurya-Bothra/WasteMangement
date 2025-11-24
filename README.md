@@ -6,7 +6,7 @@
 * [Saransh Shivhare](https://github.com/saranshs17)
 * [Nikhil Kumar](https://github.com/mNik033)
 * [Arif Khan](https://github.com/ARIF01KHAN)
-
+* [Shaurya Bothra](https://github.com/Shaurya-Bothra)
 ## PROBLEM STATEMENT 
 The Proposed Waste Management App is a comprehensive and easy-to-use interface that aims to eliminate the hassle associated with proper, efficient waste disposal. Our App will deploy an object detection model that will be able to easily detect all the different waste objects, compile them into a list, and classify them automatically into their disposal categories. It also aims to simplify and automate many different aspects of waste management.
 ## Why we chose this idea ?
